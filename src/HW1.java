@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 
-public class Main {
+public class HW1 {
     public static void main(String[] args) {
         System.out.println("Imperarive");//task1
         int[] array = {2, 4, 5, 6, 7, 3, 2, 4, 1, 1, 9, 5, 3};
